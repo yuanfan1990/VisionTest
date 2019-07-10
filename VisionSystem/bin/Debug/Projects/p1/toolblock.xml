@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ToolBlockManager>
+	<ToolBlock id="1" display="1">
+		<vppname>11.vpp</vppname>
+		<scriptname>11.cs</scriptname>
+		<recordname>CogPMAlignTool1.InputImage</recordname>
+		<datalength>8</datalength>
+	</ToolBlock>
+</ToolBlockManager>

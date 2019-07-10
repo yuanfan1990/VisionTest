@@ -1,0 +1,34 @@
+<config>
+	<camera name="C1">
+        <param sn="123456" exposure="30" contrast="0.1" light="0">
+		<readimagepath>c:\\1.bmp</readimagepath>
+		<isaveimage ng="true" ok="true" input="true"></isaveimage>
+		<toolblock index="1">
+			<vppname>1.vpp</vppname>
+			<scriptname>1.cs</scriptname>
+			<recordname>CogBlobTool1.InputImage</recordname>
+		<toolblock>
+		<toolblock index="2">
+			<filename>2.vpp</filename>
+			<scriptname>2.cs</scriptname>
+			<recordname>CogBlobTool1.InputImage</recordname>
+		<toolblock>
+		<com trigger="xxx" index="1"></com>
+	</camera>
+    <camera name="C2">
+        <param sn="234567" exposure="30" contrast="0.1" light="0">
+		<readimagepath>c:\\2.bmp</readimagepath>
+		<isaveimage ng="true" ok="true" input="true"></isaveimage>
+		<toolblock index="1">
+			<vppname>1.vpp</vppname>
+			<scriptname>1.cs</scriptname>
+			<recordname>CogBlobTool1.InputImage</recordname>
+		<toolblock>
+		<toolblock index="2">
+			<filename>2.vpp</filename>
+			<scriptname>2.cs</scriptname>
+			<recordname>CogBlobTool1.InputImage</recordname>
+		<toolblock>
+		<com trigger="xxx" index="2"></com>
+	</camera>
+</config>

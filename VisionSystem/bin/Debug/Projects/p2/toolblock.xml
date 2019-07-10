@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ToolBlockManager>
+	<ToolBlock id="1" display="1">		
+		<vppname>11.vpp</vppname>
+		<scriptname>11.cs</scriptname>
+		<recordname>CogBlobTool1.InputImage</recordname>
+		<datalength>8</datalength>
+	</ToolBlock>
+	<ToolBlock id="2" display="2">
+		<vppname>12.vpp</vppname>
+		<scriptname>12.cs</scriptname>
+		<recordname>CogBlobTool1.InputImage</recordname>
+		<datalength>2</datalength>
+	</ToolBlock>
+	<ToolBlock id="3" display="3">
+		<vppname>21.vpp</vppname>
+		<scriptname>21.cs</scriptname>
+		<recordname>CogBlobTool1.InputImage</recordname>
+		<datalength>2</datalength>
+	</ToolBlock>
+	<ToolBlock id="4" display="4">
+		<vppname>22.vpp</vppname>
+		<scriptname>22.cs</scriptname>
+		<recordname>CogBlobTool1.InputImage</recordname>
+		<datalength>2</datalength>
+	</ToolBlock>
+</ToolBlockManager>

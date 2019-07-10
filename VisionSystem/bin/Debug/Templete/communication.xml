@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<communicationmanager>
+  <Communication id="串口-1906121038509" type="串口">
+    <PortName>COM10</PortName>
+    <Baudrate>9600</Baudrate>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </Communication>
+  <Communication id="TCP服务器-1906112059511" type="TCP服务器">
+    <IP>127.0.0.1</IP>
+    <Port>60000</Port>
+  </Communication>
+  <communication id="PLC_Siemens-1906130907596" type="PLC_Siemens">
+    <cputype>S71200</cputype>
+    <ip>192.168.250.98</ip>
+    <rack>0</rack>
+    <slot>1</slot>
+    <read block="DB1" start="0" length="10"></read>
+    <write block="DB1" start="40"></write>
+  </Communication>
+</CommunicationManager>

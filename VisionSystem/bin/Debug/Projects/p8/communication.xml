@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommunicationManager>
+  <Communication id="TCP服务器-1906261348499" type="TCP服务器">
+    <ip>127.0.0.1</ip>
+    <port>60000</port>
+  </Communication>
+  <Communication id="Siemens-1906271728526" type="PLC">
+    <cputype>S71200</cputype>
+    <ip>192.168.250.98</ip>
+    <rack>0</rack>
+    <slot>1</slot>
+    <Read block="DB1" start="0" length="10">
+    </Read>
+    <Write block="DB1" start="40">
+    </Write>
+  </Communication>
+</CommunicationManager>

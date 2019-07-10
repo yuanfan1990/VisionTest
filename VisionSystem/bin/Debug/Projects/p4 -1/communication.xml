@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommunicationManager>
+  <Communication id="Omron-1906211140464" type="PLC">
+    <ip>192.168.250.13</ip>
+    <port>9600</port>
+    <localip>192.168.250.99</localip>
+    <Read block="DM" start="0" length="10">
+    </Read>
+    <Write block="DM" start="1700">
+    </Write>
+  </Communication>
+</CommunicationManager>

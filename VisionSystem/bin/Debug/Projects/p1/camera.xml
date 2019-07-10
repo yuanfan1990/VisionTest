@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CameraManager>
+	<Camera id="1" name="相机1" width="2592" height="1944">
+        <param sn="22569014" exposure="30" contrast="0.1" light="0"></param>
+        <toolblockid>1</toolblockid>		
+	<com trigger="PLC_Siemens-1906130907596"></com>
+	</Camera>
+</CameraManager>

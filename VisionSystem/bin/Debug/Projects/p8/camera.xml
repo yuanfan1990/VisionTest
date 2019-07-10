@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CameraManager>
+  <Camera id="1" name="相机1" width="700" height="480">
+    <param sn="22569014" exposure="11" contrast="0" light="0">
+    </param>
+    <toolblockid>1</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+  <Camera id="2" name="相机2" width="1280" height="1024">
+    <param sn="22846872" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>2</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+    <Camera id="3" name="相机3" width="646" height="492">
+    <param sn="22846873" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>3</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+    <Camera id="4" name="相机4" width="640" height="482">
+    <param sn="22846876" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>4</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+  <Camera id="5" name="相机5" width="640" height="512">
+    <param sn="22846877" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>5</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+  <Camera id="6" name="相机6" width="640" height="480">
+    <param sn="22846878" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>6</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+  <Camera id="7" name="相机7" width="640" height="480">
+    <param sn="22846879" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>7</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+  <Camera id="8" name="相机8" width="6576" height="4384">
+    <param sn="22846880" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>8,9</toolblockid>
+    <com trigger="TCP服务器-1906261348499">
+    </com>
+  </Camera>
+</CameraManager>

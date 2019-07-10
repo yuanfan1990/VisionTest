@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CameraManager>
+  <Camera id="1" name="相机1" width="2592" height="1944">
+    <param sn="22569014" exposure="11" contrast="0" light="0">
+    </param>
+    <toolblockid>1,2</toolblockid>
+    <com trigger="Siemens-1906191056017">
+    </com>
+  </Camera>
+  <Camera id="2" name="相机2" width="2592" height="1944">
+    <param sn="22846872" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>3,4</toolblockid>
+    <com trigger="Siemens-1906191056017">
+    </com>
+  </Camera>
+    <Camera id="3" name="相机3" width="2592" height="1944">
+    <param sn="22846873" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>5,6</toolblockid>
+    <com trigger="Siemens-1906191056017">
+    </com>
+  </Camera>
+    <Camera id="4" name="相机4" width="2592" height="1944">
+    <param sn="22846875" exposure="22" contrast="0" light="0">
+    </param>
+    <toolblockid>7,8</toolblockid>
+    <com trigger="Siemens-1906191056017">
+    </com>
+  </Camera>
+</CameraManager>

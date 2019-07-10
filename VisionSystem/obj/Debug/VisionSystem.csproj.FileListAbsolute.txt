@@ -1,0 +1,182 @@
+C:\Users\admin\Desktop\修改3-6\验证1\bin\Debug\VisionSystem.exe.config
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.Properties.Resources.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.MyResource.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\修改3-6\验证1\bin\Debug\VisionSystem.exe
+C:\Users\admin\Desktop\修改3-6\验证1\bin\Debug\VisionSystem.pdb
+C:\Users\admin\Desktop\修改3-6\验证1\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\修改3-6\验证1\bin\Debug\System.Net.Http.xml
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.FormCameraConfig.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.FormCommunicationConfig.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.FormEdit.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.FormMain.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.FormManageProject.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.FormRecordDisplay.resources
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.exe
+C:\Users\admin\Desktop\修改3-6\验证1\obj\Debug\VisionSystem.pdb
+C:\Users\admin\Desktop\修改3-6\VisionSystem\bin\Debug\VisionSystem.exe.config
+C:\Users\admin\Desktop\修改3-6\VisionSystem\bin\Debug\VisionSystem.exe
+C:\Users\admin\Desktop\修改3-6\VisionSystem\bin\Debug\VisionSystem.pdb
+C:\Users\admin\Desktop\修改3-6\VisionSystem\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\修改3-6\VisionSystem\bin\Debug\System.Net.Http.xml
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.FormCameraConfig.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.FormCommunicationConfig.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.FormEdit.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.FormMain.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.FormManageProject.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.FormRecordDisplay.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.Properties.Resources.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.MyResource.resources
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.exe
+C:\Users\admin\Desktop\修改3-6\VisionSystem\obj\Debug\VisionSystem.pdb
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.FormCameraConfig.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.FormCommunicationConfig.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.FormEdit.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.FormMain.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.FormManageProject.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.FormRecordDisplay.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.Properties.Resources.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.MyResource.resources
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.csproj.GenerateResource.cache
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.csproj.CoreCompileInputs.cache
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.exe
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.pdb
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\VisionSystem.exe.config
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\VisionSystem.exe
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\VisionSystem.pdb
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Controls.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Core.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.CorePlus.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Database.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.FGGigE.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageFile.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.Controls.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Core.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\stdole.dll
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Core.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.CorePlus.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Database.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.FGGigE.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageFile.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Core.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.csproj.CopyComplete
+E:\新建文件夹\修改3-6 - test\VisionSystem\obj\Debug\VisionSystem.csprojAssemblyReference.cache
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\VisionSystem.exe.config
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\VisionSystem.exe
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\VisionSystem.pdb
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Controls.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Core.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.CorePlus.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Database.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.FGGigE.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageFile.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.Controls.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Core.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\stdole.dll
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Core.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.CorePlus.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Database.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.FGGigE.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageFile.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Core.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.csprojAssemblyReference.cache
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.FormCameraConfig.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.FormCommunicationConfig.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.FormEdit.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.FormMain.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.FormManageProject.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.FormRecordDisplay.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.Properties.Resources.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.MyResource.resources
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.csproj.GenerateResource.cache
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.csproj.CoreCompileInputs.cache
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.csproj.CopyComplete
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.exe
+E:\新建文件夹\修改3-7 - test\VisionSystem\obj\Debug\VisionSystem.pdb
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\VisionSystem.exe.config
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\VisionSystem.exe
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\VisionSystem.pdb
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Controls.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Core.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.CorePlus.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Database.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.FGGigE.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.ImageFile.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.Controls.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.Controls.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.Core.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\stdole.dll
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Core.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.CorePlus.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Database.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.FGGigE.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.ImageFile.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.Inspection.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.Core.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.csprojAssemblyReference.cache
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.FormCameraConfig.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.FormCommunicationConfig.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.FormEdit.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.FormMain.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.FormManageProject.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.FormRecordDisplay.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.Properties.Resources.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.MyResource.resources
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.csproj.GenerateResource.cache
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.csproj.CoreCompileInputs.cache
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.csproj.CopyComplete
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.exe
+E:\新建文件夹\修改3-8 - 副本\VisionSystem\obj\Debug\VisionSystem.pdb

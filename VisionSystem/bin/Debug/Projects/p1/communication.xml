@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommunicationManager>
+  <Communication id="串口-1906181536198" type="串口">
+    <portname>COM10</portname>
+    <baudrate>9600</baudrate>
+    <databits>8</databits>
+    <stopbits>1</stopbits>
+  </Communication>
+</CommunicationManager>

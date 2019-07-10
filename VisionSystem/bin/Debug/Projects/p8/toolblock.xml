@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ToolBlockManager>
+	<ToolBlock id="1" display="1">		
+		<vppname>11.vpp</vppname>
+		<scriptname>11.cs</scriptname>
+		<recordname>CogImageConvertTool1.InputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+	<ToolBlock id="2" display="2">
+		<vppname>21.vpp</vppname>
+		<scriptname>21.cs</scriptname>
+		<recordname>CogIPOneImageTool1.InputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+	<ToolBlock id="3" display="3">
+		<vppname>31.vpp</vppname>
+		<scriptname>31.cs</scriptname>
+		<recordname>CogFixtureTool1.OutputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+	<ToolBlock id="4" display="4">
+		<vppname>41.vpp</vppname>
+		<scriptname>41.cs</scriptname>
+		<recordname>CogPMAlignTool1.InputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+	<ToolBlock id="5" display="5">		
+		<vppname>51.vpp</vppname>
+		<scriptname>51.cs</scriptname>
+		<recordname>CogBlobTool1.InputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+	<ToolBlock id="6" display="6">
+		<vppname>61.vpp</vppname>
+		<scriptname>61.cs</scriptname>
+		<recordname>CogImageConvertTool1.InputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+    <ToolBlock id="7" display="7">
+		<vppname>71.vpp</vppname>
+		<scriptname>71.cs</scriptname>
+		<recordname>CogPMAlignTool1.InputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+    <ToolBlock id="8" display="8">
+		<vppname>81.vpp</vppname>
+		<scriptname>81.cs</scriptname>
+		<recordname>CogToolBlock1.CogFixtureTool.OutputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+    <ToolBlock id="9" display="9">
+		<vppname>82.vpp</vppname>
+		<scriptname>82.cs</scriptname>
+		<recordname>CogToolBlock1.CogFixtureTool.OutputImage</recordname>
+		<datalength>1</datalength>
+	</ToolBlock>
+</ToolBlockManager>

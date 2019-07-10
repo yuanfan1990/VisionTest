@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommunicationManager>
+  <Communication id="Siemens-1906191056017" type="PLC">
+    <cputype>S71200</cputype>
+    <ip>192.168.250.98</ip>
+    <rack>0</rack>
+    <slot>1</slot>
+    <Read block="DB1" start="0" length="10">
+    </Read>
+    <Write block="DB1" start="40">
+    </Write>
+  </Communication>
+</CommunicationManager>
